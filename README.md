@@ -3,6 +3,8 @@
 *********************************************************************
 This is for ptychography reconstruction by the Wigner-distribution deconvolution (WDD)  method for 4DSTEM data.
 
+The jupyternotebook file is the userguide
+
 The codes were originally developed by Katsuaki Nakazawa(ICYS fellow at NIMS, Japan)
 e-mail:NAKAZAWA.Katsuaki@nims.go.jp
 and debugged and modified by
